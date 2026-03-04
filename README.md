@@ -7,6 +7,6 @@ $ https://academia.holamundo.io/courses/ultimate-linux
 
 ```bash
 # My Certificate
-$ https://academia.holamundo.io/certificates/zzz
+$ https://academia.holamundo.io/certificates/cybpcz0ish
 ```
-[![Certificate Linux](./img/certificate.png)](https://academia.holamundo.io/certificates/zzz)
+[![Certificate Linux](./img/certificate.png)](https://academia.holamundo.io/certificates/cybpcz0ish)
